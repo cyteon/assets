@@ -305,7 +305,7 @@
  pre > code.diff-highlight .token.token.deleted:not(.prefix) {
      background-color: #f38ba866;
      display: block;
-     color: #cdd6f4;
+     color: #cdd6f4 !important;
 
  }
  
