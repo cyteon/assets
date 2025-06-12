@@ -313,7 +313,7 @@
  pre > code.diff-highlight .token.token.inserted:not(.prefix) {
      background-color: #a6e3a166;
      display: block;
-     color: #cdd6f4;
+     color: #cdd6f4 !important;
  }
  
  /* overrides color-values for the Command Line plugin
