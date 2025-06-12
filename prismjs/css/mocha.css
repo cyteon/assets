@@ -305,12 +305,15 @@
  pre > code.diff-highlight .token.token.deleted:not(.prefix) {
      background-color: #f38ba866;
      display: block;
+     color: #cdd6f4;
+
  }
  
  pre.diff-highlight > code .token.token.inserted:not(.prefix),
  pre > code.diff-highlight .token.token.inserted:not(.prefix) {
      background-color: #a6e3a166;
      display: block;
+     color: #cdd6f4;
  }
  
  /* overrides color-values for the Command Line plugin
